@@ -47,7 +47,7 @@ LeetCode 原生编辑器对于 Java 的支持非常有限，经常需要手动�
 如果你发现有遗漏的常用 API，或者想要改进正则匹配逻辑：
 
 1.  Fork 本仓库
-2.  修改 `leetcode-java-assistant.user.js` 中的 `API_DB` 数组
+2.  修改 `leetcode-helper.user.js` 中的 `API_DB` 数组
 3.  提交 Pull Request
 
 ## 📄 许可证 (License)
