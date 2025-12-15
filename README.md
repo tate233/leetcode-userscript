@@ -1,8 +1,5 @@
 # 🚀 LeetCode Java Smart Assistant (LeetCode Java 智能助手)
 
-[![Language](https://img.shields.io/badge/Language-Java-orange.svg)](https://www.java.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
-
 > 让 LeetCode 的网页编辑器拥有类似 IntelliJ IDEA 的智能提示体验。
 > Make LeetCode editor feel like IntelliJ IDEA.
 
@@ -26,7 +23,7 @@ LeetCode 原生编辑器对于 Java 的支持非常有限，经常需要手动�
 
 1.  **安装管理器**：首先安装 [Tampermonkey (油猴)](https://www.tampermonkey.net/) 浏览器扩展。
 2.  **安装脚本**：
-    * 新建脚本->把js源码复制进去 [👉 点此查看源码 (GitHub)](./leetcode-java-assistant.user.js)
+    * 新建脚本->把js源码复制进去 [👉 点此查看源码 (GitHub)](./leetcode-userscript/blob/main/leetcode-helper.user.js)
 
 ## 🛠️ 支持的 API 列表 (Supported APIs)
 
